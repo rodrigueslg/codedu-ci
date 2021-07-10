@@ -1,4 +1,4 @@
-package goapp
+package main
 
 import "testing"
 
